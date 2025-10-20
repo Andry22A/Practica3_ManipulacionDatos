@@ -1,0 +1,12 @@
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\bin\Debug\practica3.exe.config
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\bin\Debug\practica3.exe
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\bin\Debug\practica3.pdb
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.csproj.AssemblyReference.cache
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.Form1.resources
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.Properties.Resources.resources
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.csproj.GenerateResource.cache
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.csproj.CoreCompileInputs.cache
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.exe
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.pdb
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.exe.config
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormClientes.resources

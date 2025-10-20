@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\models entities\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:models entities\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\models entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:models entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\dal\\proveedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:dal\\proveedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\models entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:models entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\models entities\\cliente.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:models entities\\cliente.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|c:\\users\\18294\\documents\\github\\practica3_manipulaciondatos\\practica3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45616750-0238-46CC-A556-F6DFF3F3BA58}|practica3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormClientes.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormClientes.cs",
+              "RelativeDocumentMoniker": "FormClientes.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormClientes.cs*",
+              "RelativeToolTip": "FormClientes.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:48:10.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Models Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Producto.cs",
+              "RelativeToolTip": "Models Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:24:55.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Models Entities\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Proveedor.cs",
+              "RelativeToolTip": "Models Entities\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:24:29.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormClientes.cs",
+              "RelativeDocumentMoniker": "FormClientes.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormClientes.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FormClientes.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:56:15.392Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCategorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormCategorias.cs",
+              "RelativeDocumentMoniker": "FormCategorias.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormCategorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormCategorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:57:13.814Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\ClienteDAL.cs",
+              "RelativeToolTip": "DAL\\ClienteDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:26:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\CategoriaDAL.cs",
+              "RelativeToolTip": "DAL\\CategoriaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:27:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProveedorDAL.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\ProveedorDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProveedorDAL.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\ProveedorDAL.cs",
+              "RelativeToolTip": "DAL\\ProveedorDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:28:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\DAL\\ProductoDAL.cs",
+              "RelativeToolTip": "DAL\\ProductoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:28:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Categoria.cs",
+              "RelativeToolTip": "Models Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:24:00.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs.cs",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Cliente.cs.cs",
+              "RelativeDocumentMoniker": "Models Entities\\Cliente.cs.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Models Entities\\Cliente.cs.cs",
+              "RelativeToolTip": "Models Entities\\Cliente.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:22:35.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormProductos.cs",
+              "RelativeDocumentMoniker": "FormProductos.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:02:28.576Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormProveedores.cs",
+              "RelativeDocumentMoniker": "FormProveedores.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\FormProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:00:09.434Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\18294\\Documents\\GitHub\\Practica3_ManipulacionDatos\\practica3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:42:31.206Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

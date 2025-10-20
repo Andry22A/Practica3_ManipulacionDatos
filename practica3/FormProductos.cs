@@ -16,5 +16,10 @@ namespace practica3
         {
             InitializeComponent();
         }
+
+        private void FormProductos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

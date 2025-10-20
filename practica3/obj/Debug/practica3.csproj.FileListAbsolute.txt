@@ -10,3 +10,6 @@ C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\
 C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.pdb
 C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.exe.config
 C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormClientes.resources
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormCategorias.resources
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormProductos.resources
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormProveedores.resources

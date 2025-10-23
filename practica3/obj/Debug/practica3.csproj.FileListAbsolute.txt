@@ -13,3 +13,4 @@ C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\
 C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormCategorias.resources
 C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormProductos.resources
 C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FormProveedores.resources
+C:\Users\18294\Documents\GitHub\Practica3_ManipulacionDatos\practica3\obj\Debug\practica3.FrmMenuPrincipal.resources
